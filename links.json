@@ -1,0 +1,166 @@
+{
+  "MDLP": {
+    "url": "https://app.powerbi.com/groups/de1ee668-d338-4a6a-af41-7a8561a36550/reports/a4e2a45c-d340-453e-a637-728636f0ac76/ReportSection6506c7a0a7d30cb0320a?language:en-US&experience:power-bi",
+    "pages" : {
+      "Dashboards": "Dashboards",
+      "Pivot Table": "Pivot Table"
+    },
+    "filtres" : {},
+    "checkboxes" : {
+      "Month": "Month-Week-Day"
+    },
+    "bookmarks": {
+      "Dashboard_RUB_CNTN": "Dashboard_RUB_CNTN",
+      "Dashboard_RUB_NWRN": "Dashboard_RUB_NWRN",
+      "Dashboard_RUB_CNTN+NWRN": "Dashboard_RUB_CNTN+NWRN",
+      "Pivot_CNT_N": "Pivot_CNT_N",
+      "Pivot_NWR_N": "Pivot_NWR_N",
+      "Pivot_CNT_N+NWR_N": "Pivot_CNT_N+NWR_N",
+      "Dashboard_onkaspar": "Dashboard_onkaspar",
+      "DB_RUB_1_month": "DB_RUB_1_month",
+      "Pivot_onkaspar": "Pivot_onkaspar"
+
+      
+    },
+    "months": {
+      "10-2025": "Oct.2025",
+      "11-2025": "Nov.2025",
+      "12-2025": "Dec.2025",
+      "01-2026": "Jan.2026",
+      "02-2026": "Feb.2026",
+      "03-2026": "Mar.2026",
+      "04-2026": "Apr.2026",
+      "05-2026": "May.2026",
+      "06-2026": "Jun.2026",
+      "07-2026": "Jul.2026",
+      "08-2026": "Aug.2026",
+      "09-2026": "Sep.2026"
+    }
+  },
+  "SFE Активность CD": {
+    "url": "https://app.powerbi.com/groups/me/reports/682a28ae-95ca-4bb7-86dc-6c74fc5d6522?ctid:cc0a4ff6-9454-4e4b-881b-85f448dee2e3&experience:power-bi",
+    "pages" : {},
+    "filtres" : {},
+    "checkboxes" : {
+      "Month": "Месяц"
+    },
+    "bookmarks": {
+      "Dashboard_month": "Dashboard_month",
+      "Worktime": "Worktime"
+    },
+    "months": {
+      "10-2025": "Oct.2025",
+      "11-2025": "Nov.2025",
+      "12-2025": "Dec.2025",
+      "01-2026": "Jan.2026",
+      "02-2026": "Feb.2026",
+      "03-2026": "Mar.2026",
+      "04-2026": "Apr.2026",
+      "05-2026": "May.2026",
+      "06-2026": "Jun.2026",
+      "07-2026": "Jul.2026",
+      "08-2026": "Aug.2026",
+      "09-2026": "Sep.2026"
+    }
+
+  },
+  "IQDATA MarketData": {
+    "url": "https://app.powerbi.com/groups/de1ee668-d338-4a6a-af41-7a8561a36550/reports/44873c5a-7e1d-48f1-8c81-380efc27a03f/ReportSectioneac61cdab1a90d73c023?experience:power-bi",
+    "pages" : {},
+    "filtres" : {},
+    "checkboxes" : {},
+    "bookmarks": {
+      "CNT-N, RUR, month": "CNT-N, RUR, month",
+      "NWR-N, RUR, month": "NWR-N, RUR, month"      
+    },
+    "months": {
+      "10-2025": "10-2025",
+      "11-2025": "11-2025",
+      "12-2025": "12-2025",
+      "01-2026": "01-2026",
+      "02-2026": "02-2026",
+      "03-2026": "03-2026",
+      "04-2026": "04-2026",
+      "05-2026": "05-2026",
+      "06-2026": "06-2026",
+      "07-2026": "07-2026",
+      "08-2026": "08-2026",
+      "09-2026": "09-2026"
+    }
+  },
+  "Secondary Sales Report": {
+    "url": "https://app.powerbi.com/groups/de1ee668-d338-4a6a-af41-7a8561a36550/reports/29de9f3e-cf6a-45e5-988b-6b2a3025dba1/ReportSection776b707fd0922109339a?experience=power-bi",
+    "pages" : {},
+    "filtres" : {},
+    "checkboxes" : {},
+    "bookmarks": {
+      "Distr_YTD_RUB": "Distr_YTD_RUB",
+      "Distr_1_month_RUB": "Distr_1_month_RUB", 
+      "Distr_MAT_RUB": "Distr_MAT_RUB"    
+    },
+    "months": {
+      "10-2025": "Oct.2025",
+      "11-2025": "Nov.2025",
+      "12-2025": "Dec.2025",
+      "01-2026": "Jan.2026",
+      "02-2026": "Feb.2026",
+      "03-2026": "Mar.2026",
+      "04-2026": "Apr.2026",
+      "05-2026": "May.2026",
+      "06-2026": "Jun.2026",
+      "07-2026": "Jul.2026",
+      "08-2026": "Aug.2026",
+      "09-2026": "Sep.2026"
+    }
+  },
+  "Stocks Distributors": {
+    "url": "https://app.powerbi.com/groups/de1ee668-d338-4a6a-af41-7a8561a36550/reports/5f2656da-5f77-4dcf-a8d5-24396b7e4dcc/ReportSectiond523fa4a02611d7afa72?experience=power-bi",
+    "pages" : {},
+    "filtres" : {},
+    "checkboxes" : {},
+    "bookmarks": {
+      "Stock_CNT_N": "Stock_CNT_N",
+      "Stock_NWR_N": "Stock_NWR_N", 
+      "Stock_CNT_N_days": "Stock_CNT_N_days",
+      "Stock_NWR_N_days": "Stock_NWR_N_days"    
+    },
+    "months": {
+      "10-2025": "Oct.2025",
+      "11-2025": "Nov.2025",
+      "12-2025": "Dec.2025",
+      "01-2026": "Jan.2026",
+      "02-2026": "Feb.2026",
+      "03-2026": "Mar.2026",
+      "04-2026": "Apr.2026",
+      "05-2026": "May.2026",
+      "06-2026": "Jun.2026",
+      "07-2026": "Jul.2026",
+      "08-2026": "Aug.2026",
+      "09-2026": "Sep.2026"
+    }
+  },
+
+  "Prices": {
+    "url": "https://app.powerbi.com/groups/de1ee668-d338-4a6a-af41-7a8561a36550/reports/8a47937d-9417-4b6d-8ea0-339e261fbbfa/ReportSectioncf2d2105b223d3e2d0c2?experience=power-bi",
+    "pages" : {},
+    "filtres" : {},
+    "checkboxes" : {},
+    "bookmarks": {
+      "Prices_CNT_N+NWR_N": "Prices_CNT_N+NWR_N"  
+    },
+    "months": {
+      "10-2025": "Oct.2025",
+      "11-2025": "Nov.2025",
+      "12-2025": "Dec.2025",
+      "01-2026": "Jan.2026",
+      "02-2026": "Feb.2026",
+      "03-2026": "Mar.2026",
+      "04-2026": "Apr.2026",
+      "05-2026": "May.2026",
+      "06-2026": "Jun.2026",
+      "07-2026": "Jul.2026",
+      "08-2026": "Aug.2026",
+      "09-2026": "Sep.2026"
+    }
+  }
+}
